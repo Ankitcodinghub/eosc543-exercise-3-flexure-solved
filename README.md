@@ -1,0 +1,1 @@
+# eosc543-exercise-3-flexure-solved
